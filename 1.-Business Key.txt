@@ -1,0 +1,6 @@
+Empresa Retail que comercializa enchufes electricos industriales
+
+Modelado de una Base de Datos para una empresa que comercializa enchufes electricos industriales, donde se registran las transacciones de ventas de productos a los clientes de forma presencial y tambien se registran										
+las compras a los proveedores, generandose una actualizacion del inventario por cada transaccion de venta o compra  que se realiza, asi mismo se mantiene actualizada la informacion acerca de pedidos, vendedores, clientes, productos, 										
+categorias, con el objetivo de realizar las consultas de ventas por producto, por categoría, por tienda, en un determinado periodo de tiempo  a fin de gestionar las existencias de los productos, tal que nos permita realizar las compras    										
+de los productos mas demandados en las tiendas.										

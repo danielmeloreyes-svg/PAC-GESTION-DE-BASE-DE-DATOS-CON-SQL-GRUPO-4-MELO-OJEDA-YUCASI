@@ -1,0 +1,16 @@
+KEY PERFORMANCE QUESTIONS
+
+PREGUNTA 1	Cual es el top 2 del valor del MONTO MENSUAL DE PEDIDOS en base a CATEGORIA en el periodo de Mayo 2024?
+PREGUNTA 2	Cual es el top 3 del valor del MONTO MENSUAL DE PEDIDOS en base a TIENDAS en el periodo de Junio 2024?
+PREGUNTA 3	Cuales el mayor valor del MONTO MENSUAL DE PEDIDOS en base a Forma_pago en el periodo de Julio 2024?
+PREGUNTA 4	Cuales el mayor valor del MONTO MENSUAL DE PEDIDOS en base a CLIENTES en el periodo de Julio 2024?
+PREGUNTA 5	Cuales el mayor valor del MONTO MENSUAL DE PEDIDOS en base a PRODUCTOS en el periodo de Julio 2024?
+PREGUNTA 6	Cual es el top 5 del valor del MONTO MENSUAL DE PEDIDOS en base a VENDEDORES en el periodo de Junio 2024?
+PREGUNTA 7	Cuales el mayor valor del MONTO MENSUAL DE PEDIDOS en base a UBIGEO en el periodo de Julio 2024?
+PREGUNTA 8	Cual es el PROMEDIO del MONTO MENSUAL DE PEDIDOS en base a FORMA DE PAGO en el periodo anual del 2024?
+PREGUNTA 9	Cual es el PROMEDIO del MONTO MENSUAL DE PEDIDOS en base a TIENDAS en el periodo anual del 2024?
+PREGUNTA 10	Cual es el PROMEDIO del MONTO MENSUAL DE PEDIDOS en base a CATEGORIAS en el periodo anual del 2024?
+PREGUNTA 11	Cual es el MONTO MENSUAL DE COMPRA en base a PROVEEDORES en el año 2024?
+PREGUNTA 12	Cual es el PROMEDIO del MONTO MENSUAL DE COMPRA en base a CATEGORIAS en el periodo anual del 2024?
+PREGUNTA 13	Cual es el PROMEDIO del MONTO MENSUAL DE PEDIDOS en base a PEDIDO_DETALLE en el periodo anual del 2024?
+PREGUNTA 14	Cual es el PROMEDIO del MONTO MENSUAL DE COMPRA en base a COMPRAS_DETALLE en el periodo anual del 2024?
